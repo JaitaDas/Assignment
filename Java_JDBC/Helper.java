@@ -15,6 +15,6 @@ public class Helper {
 		}
 
 	public static Connection con() throws SQLException {
-		return DriverManager.getConnection("jdbc:mysql://localhost:3506/mrinaldb","root","root");
+		return DriverManager.getConnection("jdbc:mysql://localhost:3109/adrikadb","root","root");
 	}
 }
