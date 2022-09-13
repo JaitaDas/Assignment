@@ -1,4 +1,4 @@
-use mrinaldb;
+use adrikadb;
 create table banking(
 AccountNumber int,
 FullName varchar(50),
